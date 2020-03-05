@@ -1,8 +1,6 @@
 # fetch_emojis Discord Bot
 ### by riggedCoinflip
 
-## raw Command Below
-
 This Bot uses the Guild.emojis as described in:
 https://discordpy.readthedocs.io/en/latest/api.html#guild.emojis <br>
 to create a JSON-File containing these keywords as:
